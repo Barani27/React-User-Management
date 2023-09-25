@@ -1,42 +1,24 @@
 
-# User Management
-
-A CRUD Application in React.js
 
 
+## React-user-Management
 
-
-## Features
-
-- User can create account, login
+- User can create and login account
 - JWT authentication
 - Admin can manage all the users
-
-
-## Tech Stack
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- jwt
-- React-Bootstrap
-- Mongoose
-- React-toastify
-
 
 ## Run 
 
 Clone the project
 
 ```bash
-  git clone https://github.com/sreeshilck/CRUD-user-management-react
+  git clone https://github.com/Barani27/React-User-Management
 ```
 
 Go to the project client directory
 
 ```bash
-  cd CRUD-user-management-react/frontend
+  cd React-User-Management/frontend
 ```
 
 Install dependencies
@@ -55,7 +37,7 @@ Start the client
 Go to the project server directory
 
 ```bash
-  cd CRUD-user-management-react/backend
+  cd React-User-Management/backend
 ```
 
 Install dependencies
@@ -69,14 +51,4 @@ Start the server
 ```bash
   npm start
 ```
-
-
-## Authors
-
-- [@sreeshilck](https://github.com/sreeshilck)
-
-
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
